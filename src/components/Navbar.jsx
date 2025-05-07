@@ -8,7 +8,7 @@ function Navbar() {
     <>
       
       {/* Navbar definition and styling */}
-      <nav className='bg-gray-900 text-white px-6 py-4 flex justify-between items-center'>
+      <nav className='bg-gray-900 text-white z-50 px-6 py-4 flex justify-between items-center'>
         <h1 className='text-2xl font-bold'>MyPortfolio</h1>
         <div className='hidden md:flex gap-6'>
           {/* Links using react-router-dom */}
