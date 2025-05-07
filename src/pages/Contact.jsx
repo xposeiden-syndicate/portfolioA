@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
-import bgImage from '../../public/logos/samantha-gades-BlIhVfXbi9s-unsplash.jpg'
+import bgImage from '../assets/logos/samantha-gades-BlIhVfXbi9s-unsplash.jpg'
 
 function Contact() {
   return (
